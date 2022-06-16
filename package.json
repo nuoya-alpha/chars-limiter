@@ -24,8 +24,5 @@
   "bugs": {
     "url": "https://github.com/nuoya-alpha/chars-limiter/issues"
   },
-  "homepage": "https://github.com/nuoya-alpha/chars-limiter#readme",
-  "dependencies": {
-    "vue": "^3.2.37"
-  }
+  "homepage": "https://github.com/nuoya-alpha/chars-limiter#readme"
 }
