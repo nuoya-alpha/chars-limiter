@@ -1,5 +1,3 @@
-import Vue from 'vue'
-
 let charsLimiter={}
   charsLimiter.install = function (Vue, options) {
     Vue.directive('int', {
