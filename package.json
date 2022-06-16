@@ -1,0 +1,31 @@
+{
+  "name": "chars-limiter",
+  "version": "1.0.0",
+  "description": "To used for limitaion to type element.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nuoya-alpha/chars-limiter.git"
+  },
+  "keywords": [
+    "limter",
+    "string",
+    "chars",
+    "input",
+    "limt",
+    "input",
+    "limitation"
+  ],
+  "author": "nuoyax <2862440280@qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nuoya-alpha/chars-limiter/issues"
+  },
+  "homepage": "https://github.com/nuoya-alpha/chars-limiter#readme",
+  "dependencies": {
+    "vue": "^3.2.37"
+  }
+}
