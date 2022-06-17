@@ -1,5 +1,5 @@
 # Chars-limiter
-###### Specializes in  input element control to limiting HTML #######
+###### Limits the input of integer types #######
 
 
 
@@ -28,7 +28,7 @@ import Vue from 'vue';
 import chartLimiter from 'Chars-limiter';
 Vue.use(chartLimiter);
 
-<input v-int name='input' />
+<input v-integer name='input' />
 ```
 
 
