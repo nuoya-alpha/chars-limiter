@@ -1,5 +1,5 @@
 {
-  "name": "@nuoya-alpha/chars-limiter",
+  "name": "chars-limiter",
   "version": "1.0.1",
   "description": "To used for limitaion to type element.",
   "main": "index.js",
