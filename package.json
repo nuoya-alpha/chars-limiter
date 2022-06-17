@@ -1,6 +1,6 @@
 {
   "name": "chars-limiter",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "To used for limitaion to type element.",
   "main": "index.js",
   "scripts": {
