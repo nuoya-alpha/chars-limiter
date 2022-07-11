@@ -1,6 +1,6 @@
 {
-  "name": "chars-limiter",
-  "version": "1.0.2",
+  "name": "@nuoyaxalpha/chars-limiter",
+  "version": "1.0.3",
   "description": "To used for limitaion to type element.",
   "main": "index.js",
   "scripts": {
